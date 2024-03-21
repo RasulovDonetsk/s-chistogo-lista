@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'ebgaramondregular';
+    font-family: 'EB Garamond';
     font-weight: 400;
     src:
     url(./ebgaramondregular.woff2)
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-    font-family: 'ebgaramondmedium';
+    font-family: 'EB Garamond';
     font-weight: 500;
     src:
     url(./ebgaramondmedium.woff2)
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: 'interregular';
+    font-family: 'Inter';
     font-weight: 400;
     src:
     url(./interregular.woff2)
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-    font-family: 'interbold';
+    font-family: 'Inter';
     font-weight: 700;
     src:
     url(./interbold.woff2)
