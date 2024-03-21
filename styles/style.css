@@ -143,7 +143,7 @@ span {
 
 .intro__heading {
   display: flex;
-  flex-wrap: nowrap;  
+  flex-wrap: nowrap;
   column-gap: 16px;
 }
 
@@ -218,7 +218,7 @@ span {
 }
 
 .card {
-  border-radius: 30px;  
+  border-radius: 30px;
   display: flex;
   flex-direction: column;
   row-gap: 8px;
@@ -242,12 +242,11 @@ span {
   row-gap: 32px;
 }
 
-.card_text-only {  
-  border-radius: 30px;  
+.card_text-only {
+  border-radius: 30px;
   display: flex;
   flex-direction: column;
   row-gap: 8px;
-
 }
 
 .card__author {
