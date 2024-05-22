@@ -100,6 +100,7 @@ blockquote {
   font-family: 'Inter';
   font-size: 16px;
   line-height: 20px;
+
   text-decoration: underline;
 }
 
@@ -115,6 +116,7 @@ blockquote {
 }
 
 .cover {
+
   padding: 7px 20px 5px 20px;
   background-image: url(../images/cover.svg);
   background-size: 94% auto;
